@@ -1,0 +1,12 @@
+﻿# Cursor IDE files
+.cursor/
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+*.log
+
+# Temporary files
+*.tmp
+*~
